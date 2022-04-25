@@ -1,5 +1,6 @@
-# ncov_covid_nlp_project
-做为NLP方向的一名研发工作者，爬取疫情信息进行NLP分析，也算是结合自己所学对“抗疫”工作进行支持，武汉加油，中国加油，全世界加油！该项目适用于NLP初学者入门参考。
+# ncov_covid_nlp_project_ext
+* 本项目是[Miaoya-Xin/ncov_covid_nlp_project](https://github.com/Miaoya-Xin/ncov_covid_nlp_project)的扩展升级版，欢迎移步至此。
+* 做为NLP方向的一名研发工作者，爬取疫情信息进行NLP分析，也算是结合自己所学对“抗疫”工作进行支持，武汉加油，中国加油，全世界加油！该项目适用于NLP初学者入门参考。
 
 # 语言
 python 3.9
